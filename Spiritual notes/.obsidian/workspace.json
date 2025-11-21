@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "18ae526c1a52f846",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd59b9fde10bc2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0d00f498ed887d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deva-notes/The Colours of Devas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Colours of Devas"
+            }
+          },
+          {
+            "id": "836dcc0aa0bd5ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditation/Consciousness/Initiation described.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initiation described"
+            }
+          },
+          {
+            "id": "92e2c795e8a32848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditation/Consciousness/Sensitivity/Sensitivity described Emotional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sensitivity described Emotional"
+            }
+          },
+          {
+            "id": "77a6a09b17e531ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditation/Consciousness/The hard problem of consciousness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The hard problem of consciousness"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2818a297be08aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee668a9e4bf24d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158feeb902304357",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1218b843ea5f60df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "235ffce453b57692",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "13eb513e8ddee973",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "034a851fe368e3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb55b8e285121a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede8ed0672326298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meditation/Consciousness/Sensitivity/The science of sensitivity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The science of sensitivity"
+            }
+          },
+          {
+            "id": "b8041dc77b717785",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meditation/Consciousness/Soul-Nature/Building the bridge.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Building the bridge"
+            }
+          },
+          {
+            "id": "6fad43e2c004e56d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8f130068c586eaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Meditation/Consciousness/Sensitivity/Sensitivity described.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sensitivity described"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77a6a09b17e531ed",
+  "lastOpenFiles": [
+    "Meditation/Artificial intelligence/The functioning of the brain contrasted to a computer.md",
+    "Meditation/Consciousness/Initiation described.md",
+    "Meditation/Consciousness/Soul-Nature/Building the bridge.md",
+    "Meditation/Consciousness/Life/Life aphorisms, a source for writing..md",
+    "Meditation/Consciousness/Initiation/SPECTS OF INITIATION.md",
+    "Meditation/Consciousness/Sensitivity/Sensitivity described Emotional.md",
+    "Meditation/Consciousness/The hard problem of consciousness.md",
+    "Meditation/Visualisation/Mantram-of-love.md",
+    "Meditation/Visualisation/Symbols worth contemplating.md",
+    "Meditation/Visualisation/Visualization notes..md",
+    "Meditation/Rules and governance/Consciously conditioning all aspects of the instrument of service.md",
+    "Meditation/Consciousness/Sensitivity/The science of sensitivity.md",
+    "Meditation/Consciousness/Soul-Nature",
+    "Meditation/Consciousness/Sensitivity/Sensitivity described Mental.md",
+    "Meditation/Consciousness/Life",
+    "Untitled 1",
+    "Daily Meditation Notes/10-08-2025/10-08-2025.md",
+    "Daily Meditation Notes/Initial thoughts on meditation.md",
+    "Daily Meditation Notes/10-08-2025",
+    "Untitled",
+    "Deva-notes/The Colours of Devas.md",
+    "Deva-notes/The fire of mind.md",
+    "Meditation seed thoughts.md",
+    "2024-03-03.md",
+    "The.md",
+    "antonio-juarez-2025-06-mws-v-meditation-report-1751669915.pdf",
+    "Untitled.canvas",
+    "Meditation/Rules and governance",
+    "Notes-on-Consciousness/Sensitivity.md",
+    "Meditation/Consciousness/Initiation",
+    "Meditation/Artificial intelligence",
+    "Daily Meditation Notes",
+    "().md"
+  ]
+}

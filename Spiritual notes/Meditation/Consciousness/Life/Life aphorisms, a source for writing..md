@@ -1,0 +1,1 @@
+_“Form is held together by rhythm. When rhythm ceases, form dissolves.”_
