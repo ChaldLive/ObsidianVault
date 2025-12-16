@@ -1,0 +1,30 @@
+
+# Obsidian workspace & UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache & internal state
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/app.json
+
+# Plugin state (usually machine-specific)
+.obsidian/plugins/*/
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/styles.css
+!.obsidian/plugins/*/main.js
+
+# Daily notes cache (optional)
+.obsidian/daily-notes.json
+
+# Trash (Obsidian ≥1.5)
+.obsidian/trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+*.swp
+*.swo
+*~
