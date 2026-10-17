@@ -1,4 +1,4 @@
-# Bailey ↔ Patanjali: The First Five Initiations
+hh# Bailey ↔ Patanjali: The First Five Initiations
 
 | Bailey Initiation          | Core Theme                                   | Patanjali Parallel                         | Sutra Cluster | Key Mechanism                                             |
 | -------------------------- | -------------------------------------------- | ------------------------------------------ | ------------- | --------------------------------------------------------- |

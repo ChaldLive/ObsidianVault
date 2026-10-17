@@ -5,6 +5,7 @@ We will consider now the etheric levels of the physical plane, or the four highe
 	2. The second ether, or sub-atomic matter.
 	3. The third ether, or super-etheric matter.
 	4. The fourth ether, or simply etheric matter.
+		1. Det her er smart
 
 The fourth ether is the only one as yet recognised by scientists, and is the subject of their present investigations, little though they may realise it.
 

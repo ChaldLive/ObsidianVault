@@ -20,6 +20,7 @@ Vær opmærksom på ikke at forveksle denne yogiske vej med [buddhismens ædle o
 
 # Om yoga sutraerne
 
+
 Ja, de otte trin er fundamentet i Yoga Sutras. Faktisk stammer hele konceptet om Ashtanga Yoga (den otte-foldige vej) direkte fra dette værk, som er skrevet af vismanden Patanjali. [1, 2]
 Her er de vigtigste fakta om forbindelsen:
 
