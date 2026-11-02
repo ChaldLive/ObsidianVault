@@ -132,7 +132,7 @@ To summarise her core themes:
 
 ### **6. Its development is the true measure of spiritual evolution.**
 
-The reason for my inquiry is that I am interested in the parallel deva evolution and how far it follows the evolution of consciousness.
+I ask because I am interested in the parallel evolution of the deva kingdom and how closely it follows the evolution of consciousness.
 
 Your question goes right to the heart of one of the most intricate and beautiful aspects of Bailey’s system: **the parallel evolution of the human
 and deva kingdoms** and how consciousness unfolds differently—but in deep resonance—across both streams.
