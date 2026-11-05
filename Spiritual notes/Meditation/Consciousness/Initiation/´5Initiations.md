@@ -11,7 +11,7 @@
 # **Bailey ↔ Patanjali: Detailed Mapping of the First Five Initiations**
 
 ## **1️⃣ The Birth**
-
+%%%%
 **Bailey:** *The Birth of the Christ in the Heart*  
 **Patanjali:** *Śraddhā → Vīrya → Smṛti → Samādhi‑bhāvanā* (I.20)
 
