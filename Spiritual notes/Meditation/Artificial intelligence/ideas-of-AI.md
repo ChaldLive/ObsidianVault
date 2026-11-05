@@ -1,8 +1,10 @@
-Will AI never be us because AI doesn't dream? And will solutions available from our dream state never be available to
+Will AI never be us because AI doesn't dream? And will solutions available from ou   wr dream state never be available to
 AI? So there's a few things to say about this, right? So I- I hope more than a few. There are many things to say about
 this. So we started with the evolution story and I made the claim, right, that sentience or consciousness or sensation
 was primordial, that all beings have it. That is definitely not true of NILLM. Okay, so point one. The large language
-model. The large language model, right? It has a completely different path towards its intelligences, right? Secondly,
+model. 
+
+The large language model, right? It has a completely different path towards its intelligences, right? Secondly,
 it immediately starts with a language. So it doesn't have an unconscious. There is no unconscious. Right. So it's just
 got a linguistic foundation right at the beginning. Thirdly, it's a collective linguistic. It's not an individual
 language learner. It's every book ever written. These are important differences. So start with the last thing that we
