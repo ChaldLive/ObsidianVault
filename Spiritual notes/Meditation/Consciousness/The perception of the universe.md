@@ -1,4 +1,4 @@
-Universe was not designed, not built, to be comprehensible to the human mind.
+jUniverse was not designed, not built, to be comprehensible to the human mind.
 We only see a little bit of it through the filter of what our minds can ingest
 and how they do it. And so we think that there really is such a thing as space
 and time. You know, we we actually think that there is a past, present, and a
